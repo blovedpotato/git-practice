@@ -1,1 +1,2 @@
 My fucking first repo
+I am learning Git from fucking scratch.
