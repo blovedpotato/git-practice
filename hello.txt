@@ -4,8 +4,8 @@ Git practice day!
 
 Ok this time ako na to
 test
-
-
+branchy
+new branch
 test 
-
+branach
 test123
